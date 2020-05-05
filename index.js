@@ -1,7 +1,6 @@
 function add(){
   (1 += 80)
 }
-
 var a = 60
 var b = 40
 function subtract(){
