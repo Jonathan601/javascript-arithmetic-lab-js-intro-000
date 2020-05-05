@@ -1,7 +1,5 @@
-var a = 1
-var b = 80
 function add(){
-  return(a += b)
+  add(1 += 80)
 }
 
 var a = 60
